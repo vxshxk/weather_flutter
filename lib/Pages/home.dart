@@ -116,7 +116,7 @@ class _HomepageState extends State<Homepage> {
                     textBaseline: TextBaseline.alphabetic,
                     children: [
                       SizedBox(
-                        width: 50.0,
+                        width: 25.0,
                       ),
                       Text(
                         data2['temperature'],
@@ -142,6 +142,9 @@ class _HomepageState extends State<Homepage> {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
+                    SizedBox(
+                      width: 40.0,
+                    ),
                     Container(
                       child: Text(
                         data2['weather'],
