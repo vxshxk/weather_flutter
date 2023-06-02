@@ -57,6 +57,7 @@ class _HomepageState extends State<Homepage> {
                         hintStyle: TextStyle(
                           color: Colors.grey,
                         ),
+                        border: InputBorder.none,
                       ),
                     ),
                   ),
