@@ -11,3 +11,7 @@ Bugs/Errors
 References used
 1. YouTube - To learn Flutter
 2. StackOverflow / other similar websites to fix errors
+
+
+
+- .apk file of this app can be found under releases. 
