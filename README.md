@@ -6,12 +6,15 @@ List of Implemented features:
 
 Bugs/Errors
  1. Keeps loading without any result if you enter wrong city name/spelling errors.
- 2. User location might be inaccurate sometimes as the API uses IP address to fetch current location. 
+ 2. User location might be slightly inaccurate sometimes as the API uses IP address to fetch current location. 
 
 References used
 1. YouTube - To learn Flutter
 2. StackOverflow / other similar websites to fix errors
 
+
+Here's a screenrecording of the working app:
+https://github.com/vxshxk/Vishak_221ec226/assets/115456558/8ba2b5b8-f6fc-4be8-bc72-fc3916b1d5ef
 
 
 - .apk file of this app can be found under releases. 
